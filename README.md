@@ -9,6 +9,9 @@ Practica 2 Escritura en memoria:
 El programa le pide al usuario que escriba su nombre, lo guarda en un buffer y luego muestra el nombre y la cantidad de caracteres que se escribieron.
 mostrando como recibir y guardar datos introducidos por el usuario
 
+Practica 3 Validacion:
+El programa muestra un mensaje de verificacion si EAX y ECX 
+
 
 Practica 4 Manejo de Pila:
 El programa multiplica dos números pasados por la pila (3 y 25) usando un procedimiento, y deja el resultado en EAX. mostrando como se utiliza la pila
